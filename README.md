@@ -1,8 +1,8 @@
-# Nocted
+# Dinted
 
 [Português (Brasil)](README.md) · [English](README.en.md)
 
-Nocted é o editor de código leve da família DINX, com interface própria em Zig, sintaxe, LSP e integração com Git.
+Dinted é o editor de código leve da família DINX, com interface própria em Zig, sintaxe, LSP e integração com Git.
 
 O repositório é privado e está em alpha. O objetivo inicial é um editor rápido e confiável, não um IDE que tente reproduzir o escopo do VS Code.
 
